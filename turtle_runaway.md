@@ -23,7 +23,9 @@
   - ➡️ `Right` : 우회전
 
 - **스킬**
+
 ![alt text](skills.png)
+
   - `Q` : 랜덤 위치로 순간이동 (Teleport)
   - `W` : 1초간 이동 속도 2배 (Boost)
   - `E` : 러너(Runner) 방향을 바라봄 (Face Runner)
@@ -43,5 +45,6 @@
 - **파란색**: 도망자 (Runner, 랜덤 이동)  
 - **검은색**: AI 추격자 (AutoChaser)  
 - **회색 원**: 장애물 (랜덤 생성)  
+
 
 ---
